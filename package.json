@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "cd demo && yarn start",
     "dev": "cd demo && yarn dev"
   },
   "keywords": [],
